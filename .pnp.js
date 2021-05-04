@@ -487,6 +487,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@cosmjs/encoding", "workspace:packages/encoding"],
             ["@cosmjs/math", "workspace:packages/math"],
             ["@cosmjs/utils", "workspace:packages/utils"],
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
             ["@types/jasmine", "npm:3.6.10"],
             ["crypto-browserify", "npm:3.12.0"],
             ["eslint", "npm:7.25.0"],
@@ -500,6 +501,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["ses", "npm:0.11.1"],
             ["source-map-support", "npm:0.5.19"],
             ["stream-browserify", "npm:3.0.0"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["typedoc", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:0.20.36"],
             ["typescript", "patch:typescript@npm%3A4.0.7#builtin<compat/typescript>::version=4.0.7&hash=a45b0e"],
             ["webpack", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:5.36.2"]
@@ -524,6 +526,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@cosmjs/stargate", "workspace:packages/stargate"],
             ["@cosmjs/tendermint-rpc", "workspace:packages/tendermint-rpc"],
             ["@cosmjs/utils", "workspace:packages/utils"],
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
             ["@types/babylon", "npm:6.16.5"],
             ["@types/diff", "npm:4.0.2"],
             ["@types/jasmine", "npm:3.6.10"],
@@ -540,7 +543,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["prettier", "npm:2.2.1"],
             ["recast", "npm:0.20.4"],
             ["source-map-support", "npm:0.5.19"],
-            ["ts-node", "virtual:4c54e85ea8694523000acc3c16f06436398c68e5baa70800c116d47c2932170a18d5e266d42e352af626a24c9a7f656c87b79fca44b7d570937eb300de9595c9#npm:8.10.2"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["typescript", "patch:typescript@npm%3A4.0.7#builtin<compat/typescript>::version=4.0.7&hash=a45b0e"],
             ["yargs", "npm:15.4.1"]
           ],
@@ -571,6 +574,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@cosmjs/launchpad", "workspace:packages/launchpad"],
             ["@cosmjs/math", "workspace:packages/math"],
             ["@cosmjs/utils", "workspace:packages/utils"],
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
             ["@types/jasmine", "npm:3.6.10"],
             ["@types/node", "npm:15.0.1"],
             ["@types/pako", "npm:1.0.1"],
@@ -588,6 +592,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["ses", "npm:0.11.1"],
             ["source-map-support", "npm:0.5.19"],
             ["stream-browserify", "npm:3.0.0"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["typedoc", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:0.20.36"],
             ["typescript", "patch:typescript@npm%3A4.0.7#builtin<compat/typescript>::version=4.0.7&hash=a45b0e"],
             ["webpack", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:5.36.2"]
@@ -609,6 +614,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@cosmjs/stargate", "workspace:packages/stargate"],
             ["@cosmjs/tendermint-rpc", "workspace:packages/tendermint-rpc"],
             ["@cosmjs/utils", "workspace:packages/utils"],
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
             ["@types/jasmine", "npm:3.6.10"],
             ["@types/long", "npm:4.0.1"],
             ["@types/node", "npm:15.0.1"],
@@ -629,6 +635,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["ses", "npm:0.11.1"],
             ["source-map-support", "npm:0.5.19"],
             ["stream-browserify", "npm:3.0.0"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["typedoc", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:0.20.36"],
             ["typescript", "patch:typescript@npm%3A4.0.7#builtin<compat/typescript>::version=4.0.7&hash=a45b0e"],
             ["webpack", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:5.36.2"]
@@ -644,6 +651,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@cosmjs/encoding", "workspace:packages/encoding"],
             ["@cosmjs/math", "workspace:packages/math"],
             ["@cosmjs/utils", "workspace:packages/utils"],
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
             ["@types/bn.js", "npm:4.11.6"],
             ["@types/elliptic", "npm:6.4.12"],
             ["@types/jasmine", "npm:3.6.10"],
@@ -673,6 +681,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["sha.js", "npm:2.4.11"],
             ["source-map-support", "npm:0.5.19"],
             ["stream-browserify", "npm:3.0.0"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["typedoc", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:0.20.36"],
             ["typescript", "patch:typescript@npm%3A4.0.7#builtin<compat/typescript>::version=4.0.7&hash=a45b0e"],
             ["unorm", "npm:1.6.0"],
@@ -686,6 +695,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/encoding/",
           "packageDependencies": [
             ["@cosmjs/encoding", "workspace:packages/encoding"],
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
             ["@types/base64-js", "npm:1.3.0"],
             ["@types/jasmine", "npm:3.6.10"],
             ["@types/node", "npm:15.0.1"],
@@ -701,6 +711,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["readonly-date", "npm:1.0.0"],
             ["ses", "npm:0.11.1"],
             ["source-map-support", "npm:0.5.19"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["typedoc", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:0.20.36"],
             ["typescript", "patch:typescript@npm%3A4.0.7#builtin<compat/typescript>::version=4.0.7&hash=a45b0e"],
             ["webpack", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:5.36.2"]
@@ -720,6 +731,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@cosmjs/proto-signing", "workspace:packages/proto-signing"],
             ["@cosmjs/stargate", "workspace:packages/stargate"],
             ["@cosmjs/utils", "workspace:packages/utils"],
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
             ["@koa/cors", "npm:3.1.0"],
             ["@types/jasmine", "npm:3.6.10"],
             ["@types/koa", "npm:2.13.1"],
@@ -734,6 +746,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["prettier", "npm:2.2.1"],
             ["ses", "npm:0.11.1"],
             ["source-map-support", "npm:0.5.19"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["typescript", "patch:typescript@npm%3A4.0.7#builtin<compat/typescript>::version=4.0.7&hash=a45b0e"]
           ],
           "linkType": "SOFT",
@@ -744,6 +757,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/faucet-client/",
           "packageDependencies": [
             ["@cosmjs/faucet-client", "workspace:packages/faucet-client"],
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
             ["@types/jasmine", "npm:3.6.10"],
             ["@types/node", "npm:15.0.1"],
             ["axios", "npm:0.21.1"],
@@ -756,6 +770,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["prettier", "npm:2.2.1"],
             ["ses", "npm:0.11.1"],
             ["source-map-support", "npm:0.5.19"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["typedoc", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:0.20.36"],
             ["typescript", "patch:typescript@npm%3A4.0.7#builtin<compat/typescript>::version=4.0.7&hash=a45b0e"],
             ["webpack", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:5.36.2"]
@@ -769,6 +784,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["@cosmjs/json-rpc", "workspace:packages/json-rpc"],
             ["@cosmjs/stream", "workspace:packages/stream"],
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
             ["@types/jasmine", "npm:3.6.10"],
             ["eslint", "npm:7.25.0"],
             ["glob", "npm:7.1.6"],
@@ -779,6 +795,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["prettier", "npm:2.2.1"],
             ["ses", "npm:0.11.1"],
             ["source-map-support", "npm:0.5.19"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["typedoc", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:0.20.36"],
             ["typescript", "patch:typescript@npm%3A4.0.7#builtin<compat/typescript>::version=4.0.7&hash=a45b0e"],
             ["webpack", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:5.36.2"],
@@ -797,6 +814,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@cosmjs/encoding", "workspace:packages/encoding"],
             ["@cosmjs/math", "workspace:packages/math"],
             ["@cosmjs/utils", "workspace:packages/utils"],
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
             ["@types/jasmine", "npm:3.6.10"],
             ["@types/node", "npm:15.0.1"],
             ["axios", "npm:0.21.1"],
@@ -814,6 +832,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["ses", "npm:0.11.1"],
             ["source-map-support", "npm:0.5.19"],
             ["stream-browserify", "npm:3.0.0"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["typedoc", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:0.20.36"],
             ["typescript", "patch:typescript@npm%3A4.0.7#builtin<compat/typescript>::version=4.0.7&hash=a45b0e"],
             ["webpack", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:5.36.2"]
@@ -833,6 +852,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@cosmjs/math", "workspace:packages/math"],
             ["@cosmjs/stargate", "workspace:packages/stargate"],
             ["@cosmjs/utils", "workspace:packages/utils"],
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
             ["@ledgerhq/hw-transport", "npm:5.50.0"],
             ["@ledgerhq/hw-transport-node-hid", "npm:5.50.0"],
             ["@ledgerhq/hw-transport-webusb", "npm:5.50.0"],
@@ -854,6 +874,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["ses", "npm:0.11.1"],
             ["source-map-support", "npm:0.5.19"],
             ["stream-browserify", "npm:3.0.0"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["typedoc", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:0.20.36"],
             ["typescript", "patch:typescript@npm%3A4.0.7#builtin<compat/typescript>::version=4.0.7&hash=a45b0e"],
             ["webpack", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:5.36.2"]
@@ -866,6 +887,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/math/",
           "packageDependencies": [
             ["@cosmjs/math", "workspace:packages/math"],
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
             ["@types/bn.js", "npm:4.11.6"],
             ["@types/jasmine", "npm:3.6.10"],
             ["bn.js", "npm:4.12.0"],
@@ -878,6 +900,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["prettier", "npm:2.2.1"],
             ["ses", "npm:0.11.1"],
             ["source-map-support", "npm:0.5.19"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["typedoc", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:0.20.36"],
             ["typescript", "patch:typescript@npm%3A4.0.7#builtin<compat/typescript>::version=4.0.7&hash=a45b0e"],
             ["webpack", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:5.36.2"]
@@ -895,6 +918,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@cosmjs/encoding", "workspace:packages/encoding"],
             ["@cosmjs/math", "workspace:packages/math"],
             ["@cosmjs/utils", "workspace:packages/utils"],
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
             ["@types/jasmine", "npm:3.6.10"],
             ["@types/long", "npm:4.0.1"],
             ["@types/node", "npm:15.0.1"],
@@ -912,6 +936,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["ses", "npm:0.11.1"],
             ["source-map-support", "npm:0.5.19"],
             ["stream-browserify", "npm:3.0.0"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["typedoc", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:0.20.36"],
             ["typescript", "patch:typescript@npm%3A4.0.7#builtin<compat/typescript>::version=4.0.7&hash=a45b0e"],
             ["webpack", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:5.36.2"]
@@ -925,6 +950,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["@cosmjs/socket", "workspace:packages/socket"],
             ["@cosmjs/stream", "workspace:packages/stream"],
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
             ["@types/jasmine", "npm:3.6.10"],
             ["@types/ws", "npm:6.0.4"],
             ["eslint", "npm:7.25.0"],
@@ -937,6 +963,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["prettier", "npm:2.2.1"],
             ["ses", "npm:0.11.1"],
             ["source-map-support", "npm:0.5.19"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["typedoc", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:0.20.36"],
             ["typescript", "patch:typescript@npm%3A4.0.7#builtin<compat/typescript>::version=4.0.7&hash=a45b0e"],
             ["webpack", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:5.36.2"],
@@ -960,6 +987,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@cosmjs/stream", "workspace:packages/stream"],
             ["@cosmjs/tendermint-rpc", "workspace:packages/tendermint-rpc"],
             ["@cosmjs/utils", "workspace:packages/utils"],
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
             ["@types/jasmine", "npm:3.6.10"],
             ["@types/long", "npm:4.0.1"],
             ["@types/node", "npm:15.0.1"],
@@ -978,6 +1006,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["ses", "npm:0.11.1"],
             ["source-map-support", "npm:0.5.19"],
             ["stream-browserify", "npm:3.0.0"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["typedoc", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:0.20.36"],
             ["typescript", "patch:typescript@npm%3A4.0.7#builtin<compat/typescript>::version=4.0.7&hash=a45b0e"],
             ["webpack", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:5.36.2"],
@@ -991,6 +1020,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/stream/",
           "packageDependencies": [
             ["@cosmjs/stream", "workspace:packages/stream"],
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
             ["@types/jasmine", "npm:3.6.10"],
             ["@types/node", "npm:15.0.1"],
             ["eslint", "npm:7.25.0"],
@@ -1002,6 +1032,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["prettier", "npm:2.2.1"],
             ["ses", "npm:0.11.1"],
             ["source-map-support", "npm:0.5.19"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["typedoc", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:0.20.36"],
             ["typescript", "patch:typescript@npm%3A4.0.7#builtin<compat/typescript>::version=4.0.7&hash=a45b0e"],
             ["webpack", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:5.36.2"],
@@ -1022,6 +1053,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@cosmjs/socket", "workspace:packages/socket"],
             ["@cosmjs/stream", "workspace:packages/stream"],
             ["@cosmjs/utils", "workspace:packages/utils"],
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
             ["@types/jasmine", "npm:3.6.10"],
             ["@types/node", "npm:15.0.1"],
             ["axios", "npm:0.21.1"],
@@ -1038,6 +1070,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["ses", "npm:0.11.1"],
             ["source-map-support", "npm:0.5.19"],
             ["stream-browserify", "npm:3.0.0"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["typedoc", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:0.20.36"],
             ["typescript", "patch:typescript@npm%3A4.0.7#builtin<compat/typescript>::version=4.0.7&hash=a45b0e"],
             ["webpack", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:5.36.2"],
@@ -1051,6 +1084,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/utils/",
           "packageDependencies": [
             ["@cosmjs/utils", "workspace:packages/utils"],
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
             ["@types/jasmine", "npm:3.6.10"],
             ["@types/node", "npm:15.0.1"],
             ["eslint", "npm:7.25.0"],
@@ -1062,6 +1096,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["prettier", "npm:2.2.1"],
             ["ses", "npm:0.11.1"],
             ["source-map-support", "npm:0.5.19"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["typedoc", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:0.20.36"],
             ["typescript", "patch:typescript@npm%3A4.0.7#builtin<compat/typescript>::version=4.0.7&hash=a45b0e"],
             ["webpack", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:5.36.2"]
@@ -1097,6 +1132,37 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["get-package-type", "npm:0.1.0"],
             ["js-yaml", "npm:3.14.1"],
             ["resolve-from", "npm:5.0.0"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["@istanbuljs/nyc-config-typescript", [
+        ["npm:1.0.1", {
+          "packageLocation": "./.yarn/cache/@istanbuljs-nyc-config-typescript-npm-1.0.1-d1daa3ba46-28c19a10ee.zip/node_modules/@istanbuljs/nyc-config-typescript/",
+          "packageDependencies": [
+            ["@istanbuljs/nyc-config-typescript", "npm:1.0.1"]
+          ],
+          "linkType": "SOFT",
+        }],
+        ["virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1", {
+          "packageLocation": "./.yarn/$$virtual/@istanbuljs-nyc-config-typescript-virtual-898a554d35/0/cache/@istanbuljs-nyc-config-typescript-npm-1.0.1-d1daa3ba46-28c19a10ee.zip/node_modules/@istanbuljs/nyc-config-typescript/",
+          "packageDependencies": [
+            ["@istanbuljs/nyc-config-typescript", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:1.0.1"],
+            ["@istanbuljs/schema", "npm:0.1.3"],
+            ["@types/nyc", null],
+            ["@types/source-map-support", null],
+            ["@types/ts-node", null],
+            ["nyc", "npm:15.1.0"],
+            ["source-map-support", "npm:0.5.19"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"]
+          ],
+          "packagePeers": [
+            "@types/nyc",
+            "@types/source-map-support",
+            "@types/ts-node",
+            "nyc",
+            "source-map-support",
+            "ts-node"
           ],
           "linkType": "HARD",
         }]
@@ -7130,10 +7196,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:4c54e85ea8694523000acc3c16f06436398c68e5baa70800c116d47c2932170a18d5e266d42e352af626a24c9a7f656c87b79fca44b7d570937eb300de9595c9#npm:8.10.2", {
-          "packageLocation": "./.yarn/$$virtual/ts-node-virtual-0d5671134f/0/cache/ts-node-npm-8.10.2-b4fe5a56b0-cd6e023e07.zip/node_modules/ts-node/",
+        ["virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2", {
+          "packageLocation": "./.yarn/$$virtual/ts-node-virtual-1d83fc6663/0/cache/ts-node-npm-8.10.2-b4fe5a56b0-cd6e023e07.zip/node_modules/ts-node/",
           "packageDependencies": [
-            ["ts-node", "virtual:4c54e85ea8694523000acc3c16f06436398c68e5baa70800c116d47c2932170a18d5e266d42e352af626a24c9a7f656c87b79fca44b7d570937eb300de9595c9#npm:8.10.2"],
+            ["ts-node", "virtual:4f1584ad4aba8733a24be7c8aebbffafef25607f2d00f4b314cf96717145c692763628a31c2b85d4686fbb091ff21ebffa3cc337399c042c19a32b9bdb786464#npm:8.10.2"],
             ["@types/typescript", null],
             ["arg", "npm:4.1.3"],
             ["diff", "npm:4.0.2"],
