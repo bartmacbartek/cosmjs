@@ -23,6 +23,13 @@ export {
 } from "./encodeobjects";
 export {
   defaultGasLimits,
+  ChangeAdminResult,
+  ExecuteResult,
+  InstantiateOptions,
+  InstantiateResult,
+  MigrateResult,
   SigningCosmWasmClient,
   SigningCosmWasmClientOptions,
+  UploadMeta,
+  UploadResult,
 } from "./signingcosmwasmclient";
