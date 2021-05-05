@@ -6,6 +6,12 @@ and this project adheres to
 
 ## [Unreleased]
 
+### Added
+
+- @cosmjs/cosmwasm-stargate: Export types `Code`, `CodeDetails`, `Contract`,
+  `ContractCodeHistoryEntry` and `JsonObject` which are response types of
+  `CosmWasmClient` methods.
+
 ## [0.25.0] - 2021-05-05
 
 ### Added
